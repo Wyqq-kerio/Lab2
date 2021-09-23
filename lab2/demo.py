@@ -27,4 +27,3 @@ if level >= 3:
     if_else_num = count_if_else(lines)
 if level >= 4:
     if_elif_total=count_if_elseif_else(lines)
-  
